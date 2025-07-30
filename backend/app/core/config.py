@@ -36,6 +36,7 @@ class Settings(BaseSettings):
             "http://127.0.0.1:5173",
             "http://172.23.0.4:5173",
             "http://172.23.0.4:3001",
+            "http://54.79.152.257:3001"
         ],
         description="Allowed CORS origins",
     )
